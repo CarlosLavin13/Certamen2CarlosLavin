@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467135176138",
+    "project_id": "fir-certamen2",
+    "storage_bucket": "fir-certamen2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467135176138:android:54056c6e68b556692c4333",
+        "android_client_info": {
+          "package_name": "com.example.certamen2carloslavin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467135176138-ici4uir2n5k8h5spmlhjbstamd3r95iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcRg-9xWB3PUUPqwQZueuSdOp43QmCg6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467135176138-ici4uir2n5k8h5spmlhjbstamd3r95iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
